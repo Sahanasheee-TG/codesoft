@@ -1,0 +1,89 @@
+body{
+    background-color:wheat;
+    width: 80%;
+    height: 80vh;
+}
+.inf h1{
+    margin-top: 10px;
+    margin-left: 5%;
+    position: absolute;
+    color:blue;
+    font-size: larger;
+}
+.inf h2{
+    margin-top: 10px;
+    margin-left: 22%;
+    position: absolute;
+    color: goldenrod;
+    font-size: larger;
+}
+.inf h3{
+    margin-top: 10px;
+    margin-left: 39%;
+    position: absolute;
+    color: hotpink;  
+    font-size: larger;   
+}
+.inf h4{
+    margin-top: 10px;
+    margin-left: 56%;
+    position: absolute;
+    color: peru;
+    font-size: larger;
+}
+.inf h5{
+    margin-top: 100px;
+    margin-left: 5%;
+    position: absolute;
+    color:orange;
+    font-size: x-large;
+}
+.inf h6{
+    margin-top: 160px;
+    margin-left: 5%;
+    position: absolute;
+    color:yellowgreen;
+    font-size: x-large;
+}
+.inf h7{
+    margin-top: 220px;
+    margin-left: 5%;
+    position: absolute;
+    color:whitesmoke;
+    font-size: larger;
+}
+.btn button{
+    width: 150px;
+    height: 38px;
+    background-color: orangered;
+    margin-top: 400px;
+    margin-left: 44%;
+    position: absolute;
+    color:white;
+    font-size: x-large;
+    border-radius: 25px;
+}
+    
+ 
+.inf img{
+    width: 40px;
+    height: 45px;
+    margin-top: 3px;
+    margin-left: 10px;
+    position: absolute;
+}
+.h1 img{
+    width: 30%;
+    height: 80%;
+    margin-top: 60px;
+    margin-left: 39%;
+    position: absolute;
+}
+.h2 img{
+    width: 124%;
+    height: 95vh;
+}
+
+
+
+
